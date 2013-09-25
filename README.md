@@ -26,7 +26,7 @@ MetaToolsMade-a-Easy is a class that handles all of the above with grace. It's p
 
 What This Is
 ====================
-This class extends Sandeep Shetty's wonderful Shopify PHP plugin. Once you get connected to Shopify with that plugin, this plugin uses that connection to access all kinds of meta data info - with style.
+This class extends Sandeep Shetty's wonderful Shopify PHP login class. Once you get connected to Shopify with that class, this class uses that connection to access all kinds of meta data info - with style.
 
 
 How You Can Help
